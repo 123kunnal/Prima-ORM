@@ -1,1 +1,1 @@
-# Prima-ORM
+# Prisma-ORM
